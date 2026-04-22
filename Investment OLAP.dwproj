@@ -27,6 +27,10 @@
       <Name>Dim Date.dim</Name>
       <FullPath>Dim Date.dim</FullPath>
     </ProjectItem>
+    <ProjectItem>
+      <Name>Dim_Branch.dim</Name>
+      <FullPath>Dim_Branch.dim</FullPath>
+    </ProjectItem>
   </Dimensions>
   <DataSources>
     <ProjectItem>
