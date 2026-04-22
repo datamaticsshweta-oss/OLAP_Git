@@ -1,0 +1,15 @@
+# Visual Studio / SSAS
+.vs/
+bin/
+obj/
+
+# Deployment files
+*.asdatabase
+*.deploymentoptions
+*.deploymenttargets
+*.configsettings
+*.log
+
+# User-specific
+*.user
+*.suo
