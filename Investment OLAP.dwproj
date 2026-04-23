@@ -31,6 +31,10 @@
       <Name>Dim_Branch.dim</Name>
       <FullPath>Dim_Branch.dim</FullPath>
     </ProjectItem>
+    <ProjectItem>
+      <Name>Dim_Product.dim</Name>
+      <FullPath>Dim_Product.dim</FullPath>
+    </ProjectItem>
   </Dimensions>
   <DataSources>
     <ProjectItem>
