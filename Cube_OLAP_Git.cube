@@ -133,7 +133,7 @@
           <ddscontrol controlprogid="MSDDS.Polyline.080.1" left="3265" top="47" logicalid="17" controlid="10" masterid="0" hint1="0" hint2="0" width="5928" height="5264" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
             <control>
               <ddsxmlobj>
-                <polyline endtypedst="6" endtypesrc="3" usercolor="0" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
+                <polyline endtypedst="6" endtypesrc="3" usercolor="1973790" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
               </ddsxmlobj>
             </control>
             <layoutobject>
@@ -247,17 +247,6 @@
             <Source xsi:type="ColumnBinding" dwd:design-time-name="c5ae38bf-56c9-436c-bf3e-e9b91e03d251">
               <TableID>dbo_Fact_Investment</TableID>
               <ColumnID>InvestmentAmount</ColumnID>
-            </Source>
-          </Source>
-        </Measure>
-        <Measure dwd:design-time-name="c7a88d7c-9253-40a6-a0b4-eb49dce7ddb4">
-          <ID>Revenue Amount</ID>
-          <Name>Revenue Amount</Name>
-          <Source dwd:design-time-name="57e13b2a-2ccc-4367-87cd-989fd40767dd">
-            <DataType>Double</DataType>
-            <Source xsi:type="ColumnBinding" dwd:design-time-name="974b222e-190f-41d4-9414-e65313048f00">
-              <TableID>dbo_Fact_Investment</TableID>
-              <ColumnID>RevenueAmount</ColumnID>
             </Source>
           </Source>
         </Measure>
